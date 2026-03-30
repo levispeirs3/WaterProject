@@ -1,0 +1,5 @@
+.vs/
+.dotnet/
+backend/WaterProject.API/bin/
+backend/WaterProject.API/obj/
+backend/WaterProject.API/*.csproj.user
