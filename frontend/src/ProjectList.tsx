@@ -36,7 +36,6 @@ function ProjectList() {
                             <li><strong>Project Status:</strong> {p.projectFunctionalityStatus}</li>
                         </ul>
                     </div>
-                    
                 </div>
             ))}
 
